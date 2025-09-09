@@ -1,0 +1,7 @@
+project:
+  name: etl-1
+
+services:
+  postgres:
+    ports:
+      - "5432:5432"
